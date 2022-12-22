@@ -1,3 +1,4 @@
+![image](https://user-images.githubusercontent.com/121239968/209155933-9ea45e4b-512a-4ebc-b46c-400eb85f7624.png)
 # joevoice
 joevoice is based on OpenAIs GPT-3 Language Model wich is currently in beta
 
