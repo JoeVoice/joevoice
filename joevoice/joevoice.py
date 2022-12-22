@@ -14,7 +14,7 @@ while True:
   message = input("Enter a message (press Alt+X to exit): ")
 
   # Check if the user wants to exit the program
-  if message.lower() == "alt+x":
+  if message.lower() == "CTRL + C":
     break
 
   # Use GPT-3 to generate a response to the user's message
